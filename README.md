@@ -1,2 +1,3 @@
 # linkedinClone
-Linkedin Clone Web Page
+Linkedin Clone Web Page (Bootstrap)
+![Screenshot](./assets/screen.png)
